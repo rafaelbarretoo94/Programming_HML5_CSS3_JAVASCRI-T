@@ -31,6 +31,7 @@ namespace CasaDoCodigo
             {
                 app.UseBrowserLink();
                 app.UseDeveloperExceptionPage();
+
             }
             else
             {
