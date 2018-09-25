@@ -1,0 +1,119 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasaDoCodigo", "CasaDoCodigo\CasaDoCodigo.csproj", "{92F366F0-F46E-435B-8528-BB16B17B0E35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursos", "Recursos", "{7AF78417-1016-4CC2-8B92-193B68C83835}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{7C6A04EC-FB33-4677-960A-BBF0AEFFA95F}"
+	ProjectSection(SolutionItems) = preProject
+		site.css = site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dados", "dados", "{CB2A0871-86E3-4870-AE11-F1BFAA801F5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logos", "logos", "{AEA51419-C1F0-445C-9D4A-B0931979B315}"
+	ProjectSection(SolutionItems) = preProject
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\logos\logo.png = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\logos\logo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "produtos", "produtos", "{4EC3A737-7316-404A-8D2F-111292A233D1}"
+	ProjectSection(SolutionItems) = preProject
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_001.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_001.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_002.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_002.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_003.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_003.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_004.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_004.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_005.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_005.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_006.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_006.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_007.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_007.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_008.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_008.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_009.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_009.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_010.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_010.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_011.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_011.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_012.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_012.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_013.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_013.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_014.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_014.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_015.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_015.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_016.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_016.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_017.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_017.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_018.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_018.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_019.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_019.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_020.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_020.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_021.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_021.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_022.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_022.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_023.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_023.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_024.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_024.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_025.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_025.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_026.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_026.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_027.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_027.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_028.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_028.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_029.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_029.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_030.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_030.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_031.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_031.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_032.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_032.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_033.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_033.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_034.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_034.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_035.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_035.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_036.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_036.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_037.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_037.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_038.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_038.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_039.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_039.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_040.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_040.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_041.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_041.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_042.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_042.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_043.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_043.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_044.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_044.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_045.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_045.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_046.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_046.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_047.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_047.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_048.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_048.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_049.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_049.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_050.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_050.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_051.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_051.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_052.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_052.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_053.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_053.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_054.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_054.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_055.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_055.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_056.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_056.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_057.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_057.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_058.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_058.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_059.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_059.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_060.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_060.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_061.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_061.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_062.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_062.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_063.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_063.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_064.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_064.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_065.jpg = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\large_065.jpg
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\livros.txt = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\produtos\livros.txt
+		..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\logos\logo.png = ..\Original Code\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\_Recursos\logos\logo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "view-com-bootstrap", "view-com-bootstrap", "{FA9A9C9D-D543-4F6F-9D0E-0321B396B00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F366F0-F46E-435B-8528-BB16B17B0E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F366F0-F46E-435B-8528-BB16B17B0E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F366F0-F46E-435B-8528-BB16B17B0E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F366F0-F46E-435B-8528-BB16B17B0E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C6A04EC-FB33-4677-960A-BBF0AEFFA95F} = {7AF78417-1016-4CC2-8B92-193B68C83835}
+		{CB2A0871-86E3-4870-AE11-F1BFAA801F5B} = {7AF78417-1016-4CC2-8B92-193B68C83835}
+		{AEA51419-C1F0-445C-9D4A-B0931979B315} = {7AF78417-1016-4CC2-8B92-193B68C83835}
+		{4EC3A737-7316-404A-8D2F-111292A233D1} = {7AF78417-1016-4CC2-8B92-193B68C83835}
+		{FA9A9C9D-D543-4F6F-9D0E-0321B396B00D} = {7AF78417-1016-4CC2-8B92-193B68C83835}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3AAD8CE-1482-45D1-B5EC-6284546DCBAA}
+	EndGlobalSection
+EndGlobal
